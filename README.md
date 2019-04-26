@@ -1,5 +1,5 @@
 # DRI
 Decentralize Resource Identifier
 
-See [Deck](deck.pdf)t for more info.
+See [Deck](deck.pdf) for more info.
 
